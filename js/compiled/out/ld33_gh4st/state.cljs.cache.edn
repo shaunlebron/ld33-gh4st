@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.107
+{:name ld33-gh4st.state, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires nil, :imports nil, :defs {app-state {:name ld33-gh4st.state/app-state, :file "src/ld33_gh4st/state.cljs", :line 3, :column 1, :end-line 3, :end-column 19, :meta {:file "/Users/swilliam/code/ld33-gh4st/src/ld33_gh4st/state.cljs", :line 3, :column 10, :end-line 3, :end-column 19}}}}
