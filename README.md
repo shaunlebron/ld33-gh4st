@@ -1,3 +1,7 @@
+_built in 48 hours, see [gh4st] for snazzier version._
+
+[gh4st]:https://github.com/shaunlebron/gh4st
+
 # Ludum Dare 33 - GH4ST
 
 A puzzle game for Ludum Dare 33.  The theme is "you are the monster".
